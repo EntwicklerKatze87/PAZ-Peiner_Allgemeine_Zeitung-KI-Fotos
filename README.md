@@ -27,6 +27,7 @@ Die folgenden Bilder zeigen die aufgedeckten Fakefotos vom 19. Januar 2026:
 ### SH 33/88 AH - Verdächtige Darstellungen
 - `PAZ_2026-01-19-SH_33_88_AH-1.jpg`
 - `PAZ_2026-01-19-SH_33_88_AH-2.jpg`
+- [Analyse der Polizeifotos](PAZ_2026-01-19-SH_33_88_AH.md)
 
 ### Spieler mit drei Beinen
 - `PAZ_2026-01-19-Spieler_Drei_Beine.jpg`
